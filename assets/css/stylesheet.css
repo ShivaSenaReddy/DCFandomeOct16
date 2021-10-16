@@ -1,4 +1,10 @@
 ﻿.posters img{
-    width:150px;
-    height:auto;
+    width:250px;
+    height:150px;
+    display:block;
+}
+
+.posters{
+    display:flex;
+    justify-content:space-between;
 }
